@@ -6,4 +6,5 @@ Ekstrak dataset corpora_clean.rar
 Ekstrak dialog dataset DebatCapres2019.rar
 
 Dataset corpora_clean sudah memalui tahap preprocessing dan dapat langsung digunakan
+
 Data dialog digunakan untuk melakukan prediksi negatif dan positif pada dialog debat (Ucapan pada saat debat)
